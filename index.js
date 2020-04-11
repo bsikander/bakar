@@ -1,3 +1,3 @@
 function test() {
-	console.log("I AM LOGGING");
+#	console.log("I AM LOGGING");
 }
