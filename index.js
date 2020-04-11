@@ -1,3 +1,3 @@
-function test2() {
+function testMerge() {
 	console.log("I AM LOGGING");
 }
